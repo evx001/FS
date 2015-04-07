@@ -1,0 +1,12 @@
+ Shared Asset Project
+(SAP)
+—
+which simply consists of code and other asset
+files accessible from other projects
+—
+or a Portable
+Class Library (PCL), which encloses all the common code in a dynamic
+-
+link library (DLL) that can then be
+referenced from other projects
+
