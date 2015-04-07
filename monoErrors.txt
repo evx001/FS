@@ -1,0 +1,1 @@
+Error: /home/evxyz/20150406elosnoc/20150406elosnoc/20150406elosnoc.fsproj: /home/evxyz/20150406elosnoc/20150406elosnoc/20150406elosnoc.fsproj could not import "$(MSBuildExtensionsPath32)\..\Microsoft SDKs\F#\3.0\Framework\v4.0\Microsoft.FSharp.Targets" (20150406elosno
