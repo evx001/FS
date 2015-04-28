@@ -1,0 +1,34 @@
+type BankAccount = 
+    { 
+        Number : string 
+        Name : string 
+        Balance : double 
+     }
+
+let myAccount = 
+    {
+        Number = "123ACE"
+        Name = "Bobby McDonald" 
+        Balance = 1394.98
+     }
+let yourAccount = 
+    {   
+        Number = "123ACE"
+        Name = "Bobby McDonald" 
+        Balance = 1394.98
+     }
+
+let accEqual = (myAccount = yourAccount)
+(* \\ Outputs
+type BankAccount =
+  {Number: string;
+   Name: string;
+   Balance: double;}
+val myAccount : BankAccount = {Number = "123ACE";
+                               Name = "Bobby McDonald";
+                               Balance = 1394.98;}
+val yourAccount : BankAccount = {Number = "123ACE";
+                                 Name = "Bobby McDonald";
+                                 Balance = 1394.98;}
+val accEqual : bool = true
+*)
