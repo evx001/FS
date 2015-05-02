@@ -1,0 +1,5 @@
+/home/evxyz/FS/elosnoc20150502/elosnoc20150502/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/evxyz/FS/elosnoc20150502/elosnoc20150502/bin/Debug/elosnoc20150502.exe.mdb
+/home/evxyz/FS/elosnoc20150502/elosnoc20150502/bin/Debug/elosnoc20150502.exe
+/home/evxyz/FS/elosnoc20150502/elosnoc20150502/obj/x86/Debug/elosnoc20150502.exe
+/home/evxyz/FS/elosnoc20150502/elosnoc20150502/obj/x86/Debug/elosnoc20150502.exe.mdb
